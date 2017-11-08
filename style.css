@@ -9,9 +9,9 @@ header {
   height: 100px;
   border-bottom: 1px solid #cccccc;
 }
-nav, header{
+header nav{
   float: right;
 }
-ul, nav{
+nav ul{
   margin: 40px 0 0 0
 }
